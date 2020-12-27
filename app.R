@@ -29,7 +29,10 @@ ui <- fluidPage(
                     "Transmission" = "am",
                     "Gears" = "gear")),
       
-    
+      # Input: Checkbox for whether outliers should be included ----
+  
+      
+    ),
     
     
     
